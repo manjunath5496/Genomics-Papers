@@ -67,7 +67,7 @@ What You Evolve to Eat</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(31).pdf" style="text-decoration:none;">Bioconductor: open software development for computational biology and bioinformatics</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(32).pdf" style="text-decoration:none;">Differential expression analysis for sequence count data</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(33).pdf" style="text-decoration:none;">From RNA-seq reads to dierential expression results</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(33).pdf" style="text-decoration:none;">From RNA-seq reads to differential expression results</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(34).pdf" style="text-decoration:none;">voom: precision weights unlock linear model analysis tools for RNA-seq read counts</a></li> 
  
