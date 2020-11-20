@@ -78,7 +78,7 @@ What You Evolve to Eat</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(37).pdf" style="text-decoration:none;">Disintegrating the fly: A mutational
 perspective on phenotypic integration and covariation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(38).pdf" style="text-decoration:none;">Does increased heat resistance result in higher susceptibility to predation? A test using Drosophila melanogaster selection and hardening</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(39).pdf" style="text-decoration:none;">Capturing Heterogeneity in Gene Expression
+<li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(39).PDF" style="text-decoration:none;">Capturing Heterogeneity in Gene Expression
 Studies by Surrogate Variable Analysis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(40).pdf" style="text-decoration:none;">Differential expression analysis of RNA-seq data at single-base resolution</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Genomics-Papers/blob/master/gno(41).pdf" style="text-decoration:none;">Cryptic Genetic Variation in Natural Populations: A Predictive Framework</a></li>
